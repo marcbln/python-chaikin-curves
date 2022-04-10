@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" height="100" width="100"  >
+<rect x="0" y="0" height="100%" width="100%" style="fill:white; stroke-width:1; stroke:black; "  />
+<polygon points="40.0,10.0 60.0,10.0 75.0,15.0 85.0,25.0 90.0,40.0 90.0,60.0 85.0,75.0 75.0,85.0 60.0,90.0 40.0,90.0 25.0,85.0 15.0,75.0 10.0,60.0 10.0,40.0 15.0,25.0 25.0,15.0 " style="fill:lightblue; stroke-width:1; stroke:blue; "  />
+</svg>
